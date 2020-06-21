@@ -18,6 +18,7 @@
 %% Paper size
 \RequirePackage{geometry} 
 %\geometry{landscape, a0paper}
+%\geometry{paperheight=36in,paperwidth=45in}
 \geometry{paperheight=36in,paperwidth=45in}
 
 %% Remove default margins
